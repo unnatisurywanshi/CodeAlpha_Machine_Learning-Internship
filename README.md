@@ -30,6 +30,9 @@ Evaluation: Confusion Matrix, ROC-AUC
 Outcome:
 
 Achieved an accuracy of 85% using the Random Forest Classifier.
+
+
+
 2. Project Title 2: [Handwritten Character Recognition]
 
 This project involves building a deep learning model to recognize and classify handwritten characters from the English alphabet. The goal is to develop an accurate and efficient recognition system that can process handwritten input and predict the correct character. The model leverages computer vision techniques and deep learning frameworks.
